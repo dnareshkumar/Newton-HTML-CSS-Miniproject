@@ -1,0 +1,44 @@
+body{
+  background-color: #666;
+  margin: 0;
+  padding: 0;
+  height: 120%;
+}
+p{
+text-align: center;
+color: beige;
+font-size: 20px;
+background-color: rgb(120, 120, 136);
+height:max-content;
+}
+p{
+  text-align: center;
+  color: beige;
+  font-size: 20px;
+  background-color: rgb(120, 120, 136);
+  height:max-content;
+  }
+.gate p{
+text-align: center;
+background-color: rgb(56, 27, 161);
+  }
+.one h1{
+    text-align: center;
+  }
+.one p{
+    margin: 0;
+  }
+.two p{
+    margin: 0;
+  }
+.Three p{
+    margin: 0;
+  }
+.fitem{
+  margin: 0;
+}
+  @media(max-width:568px){
+    .class{
+      background-attachment:scroll;
+    }
+  }
